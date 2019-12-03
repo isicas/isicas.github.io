@@ -102,39 +102,39 @@ a:active {
 
 /* footer font style */
 #footer {
-	font-size: 10px;
+	font-size: 12px;
 	text-align: center;
 	color:#fff;
 }
 
 /* Overall Layout */
 #body {
-	width: 708px;
+	width: 1200px;
 	margin-right: auto;
 	margin-left: auto;
 	text-align: left;
 }
 #header {
 	background:url(images/top.png) no-repeat ;
-	width: 720px;
+	width: 1200px;
 	height:190px;
 	margin:0px;
 	padding:0;
 }
 
 #content {
-	background:url(images/middle.gif) repeat-y ;
-	width: 708px;
+	background:url(images/middle.gif) repeat;
+	width: 1200px;
 	margin:0;
 	padding:0;
 }
 
 #footer {
-	background:  url(images/bottom.gif) no-repeat  ;
-	width: 708px;
-	height: 54px;
+	background:  url(images/bottom.png) repeat-x  ;
+	width: 1200px;
+	height: 30px;
 	margin:0;
-	padding:12px;
+	padding:0px;
 }
 
 .clear {
@@ -144,14 +144,14 @@ a:active {
 
 /* inside content layout */
 #sidemenu {
-	width:180px;
+	width:300px;
 	float: left;
 	margin:0;
 	padding:0;
 }
 
 #main {
-	width:480px;
+	width:840px;
 	float: right;
 	margin:0;
 	padding:15px 20px 15px 15px;
@@ -170,7 +170,7 @@ a:active {
 }
 
 #navcontainer li {
-	width: 173px;
+	width: 250px;
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
@@ -178,7 +178,7 @@ a:active {
 }
 
 #navcontainer a {
-	width: 145px;
+	width: 250px;
 	display: block;
 	background: #fafafa;
 	font-weight:normal;
