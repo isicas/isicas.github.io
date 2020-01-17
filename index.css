@@ -56,12 +56,12 @@ h6 {
 }
 
 a:link {
-	color: #666;
+	color: #bb1b1b;
 	font-weight: bold;
 }
 
 a:visited {
-	color: #666;
+	color: #bb1b1b;
 	font-weight: bold;
 }
 
@@ -78,6 +78,7 @@ a:active {
 
 /* header font style */
 #title {
+	color:#000000;
 	float:right;
 	text-align: left;
 	padding :35px;
@@ -86,7 +87,7 @@ a:active {
 }
 
 #title h2 {
-	color:#666;
+	color:#000000;
 	font: 15px Lucida Grande, helvetica, arial, sans-serif;
 	font-weight: bold;
 	border:0;
@@ -95,7 +96,7 @@ a:active {
 
 
 #title p {
-	color:#666;
+	color:#000000;
 	font: 100% Lucida Grande, helvetica, arial, sans-serif;
 	font-weight: bold;
 }
