@@ -87,7 +87,7 @@ a:active {
 }
 
 #title h2 {
-	color:#ffffff;
+	color:#000000;
 	font: 15px Lucida Grande, helvetica, arial, sans-serif;
 	font-weight: bold;
 	border:0;
@@ -96,7 +96,7 @@ a:active {
 
 
 #title p {
-	color:#ffffff;
+	color:#000000;
 	font: 100% Lucida Grande, helvetica, arial, sans-serif;
 	font-weight: bold;
 }
