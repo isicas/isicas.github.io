@@ -61,12 +61,12 @@ a:link {
 }
 
 a:visited {
-	color: #bb1b1b;
+	color: #2d3c8c;
 	font-weight: bold;
 }
 
 a:hover {
-	color: #2d2c8c;
+	color: #bb1b1b;
 	text-decoration: none;
 	font-weight: bold;
 }
