@@ -205,7 +205,7 @@ a:active {
 }
 
 .bgtitle {
-	font-size: 12px;
+	font-size: 120%;
 	font-weight: bold;
 	color: #FFFFFF;
 	background-color: #2d2c8c;
@@ -213,14 +213,14 @@ a:active {
 }
 
 .bgtitle a:link{
-	font-size: 12px;
+	font-size: 120%;
 	font-weight: bold;
 	color: #FFFFFF;
 	background-color: #2d2c8c;
 	text-align: center;
 }
 .bgtitle a:visited{
-	font-size: 12px;
+	font-size: 120%;
 	font-weight: bold;
 	color: #FFFFFF;
 	background-color: #2d2c8c;

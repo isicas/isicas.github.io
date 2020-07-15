@@ -8,7 +8,7 @@ endif
 
 echo "Program: switch language to $ln"
 
-set listFiles = 'accepted author committee contact history hotel program images registration sponsor transportation visa index.html video'
+set listFiles = 'accepted author committee contact history hotel program images registration sponsor transportation visa index.html video keynote live'
 
 echo $listFiles;
 
